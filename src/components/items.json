@@ -1,0 +1,58 @@
+[
+    {
+        "name":"T-Shirt Winter",
+        "price":25.97,
+        "rating": 4.8,
+        "imgHover":"https://assets.ajio.com/medias/sys_master/root/20231214/ALYD/657ad760afa4cf41f5cffb13/-473Wx593H-465634623-navy-MODEL.jpg",
+        "img":"https://assets.ajio.com/medias/sys_master/root/20230602/xC82/64792eb142f9e729d70bc45b/-473Wx593H-461407427-blue-MODEL3.jpg"
+    },
+    {
+        "name":"Hoodie",
+        "price":37.97,
+        "rating": 4.3,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_913128-MLA49292675736_032022-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_735290-MLA50440555876_062022-O.webp"
+    },
+    {
+        "name":"Hoodie Winter",
+        "price":35.67,
+        "rating": 4.1,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_728908-MLA48279344441_112021-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_895737-MLA50440537466_062022-O.webp"
+    },
+    {
+        "name":"T-Shirt Classic",
+        "price":20.97,
+        "rating": 4.9,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_664963-MLA43747277601_102020-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_831858-MLA48044614602_102021-O.webp"
+    },
+    {
+        "name":"T-Shirt Oversize",
+        "price":23.97,
+        "rating": 4.7,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_780019-MLA74249916196_022024-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_766940-MLA73611188794_122023-O.webp"
+    },
+    {
+        "name":"Shirt",
+        "price":29.97,
+        "rating": 4.9,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_791265-MLA70060968492_062023-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_844713-MLA70810660474_082023-O.webp"
+    },
+    {
+        "name":"Cargo Pants",
+        "price":36.97,
+        "rating": 4.2,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_848115-MLA51970918138_102022-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_752172-MLA48934108019_012022-O.webp"
+    },
+    {
+        "name":"Jeans",
+        "price":31.97,
+        "rating": 4.0,
+        "imgHover":"https://http2.mlstatic.com/D_NQ_NP_916885-MLA54743515494_032023-O.webp",
+        "img":"https://http2.mlstatic.com/D_NQ_NP_797596-MLA54743513890_032023-O.webp"
+    }
+]
